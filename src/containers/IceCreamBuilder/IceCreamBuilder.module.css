@@ -1,0 +1,7 @@
+/* icecreamBuilder */
+@media only screen and (max-width: 767.99px) {
+    .mainBody .container {
+      flex-direction: column;
+    }
+  }
+  
